@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Fynn (23 y.o) ! 
+I'm Fynn (24 y.o) ! 
 <br><br>
 <a href="https://linkedin.com/in/fynnfr" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-fynnfr-informational"></a>
 <a href="mailto:fynn091209@proton.me"><img src="https://img.shields.io/badge/Email-fynn091209%40proton.me-orange"></a>
